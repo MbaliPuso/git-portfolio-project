@@ -8,3 +8,9 @@ p {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
 }
+
+.hero {
+  background: #F9F7FE;
+  text-align: center;
+}
+
