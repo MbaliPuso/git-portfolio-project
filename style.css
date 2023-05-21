@@ -143,6 +143,10 @@ footer .contact-box {
   border-radius: 10px;
 }
 
+footer .contact-box p {
+  margin: 0;
+}
+
 footer .email-link {
   text-decoration: none;
   color: black;
@@ -176,6 +180,10 @@ footer .social-links a:hover {
 
   h2 {
     font-size: 44px;
+  }
+
+  h4 {
+    font-size: 18px;
   }
 
   .hero {
